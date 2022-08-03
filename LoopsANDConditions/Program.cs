@@ -14,6 +14,7 @@ namespace LoopsANDConditions
             catch (Exception ex)
             {
                 Console.WriteLine(ex.Message);
+                return;
             }
             try
             {
@@ -22,6 +23,7 @@ namespace LoopsANDConditions
             catch (Exception ex)
             {
                 Console.WriteLine(ex.Message);
+                return;
             }
             int sum = 0;
             for (; x <= y; x++)

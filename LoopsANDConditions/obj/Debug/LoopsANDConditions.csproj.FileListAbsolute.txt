@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Self-education\Beetroot\LoopsANDConditions\LoopsANDConditions\bin\Debug\LoopsANDConditions.exe.config
+C:\Users\User\Desktop\Self-education\Beetroot\LoopsANDConditions\LoopsANDConditions\bin\Debug\LoopsANDConditions.exe
+C:\Users\User\Desktop\Self-education\Beetroot\LoopsANDConditions\LoopsANDConditions\bin\Debug\LoopsANDConditions.pdb
+C:\Users\User\Desktop\Self-education\Beetroot\LoopsANDConditions\LoopsANDConditions\obj\Debug\LoopsANDConditions.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Self-education\Beetroot\LoopsANDConditions\LoopsANDConditions\obj\Debug\LoopsANDConditions.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Self-education\Beetroot\LoopsANDConditions\LoopsANDConditions\obj\Debug\LoopsANDConditions.exe
+C:\Users\User\Desktop\Self-education\Beetroot\LoopsANDConditions\LoopsANDConditions\obj\Debug\LoopsANDConditions.pdb
