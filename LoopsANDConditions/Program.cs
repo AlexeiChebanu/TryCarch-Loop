@@ -6,7 +6,7 @@ namespace LoopsANDConditions
     {
         static void Main(string[] args)
         {
-            int x = 0, y = 0;
+            int x, y;
             try
             {
                 x = Int32.Parse(Console.ReadLine());
